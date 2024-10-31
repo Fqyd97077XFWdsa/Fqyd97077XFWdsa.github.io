@@ -1,2 +1,1 @@
  <h1><a target="_blank" href="https://izanserver.com"><span style="color:rgb(0, 140, 255)">izanserver.com</span></a>/<a target="_blank" href="https://izanserver.xyz"><span style="color:rgb(0, 140, 255)">izanserver.xyz</span></a></h1>
-<p>this repository will publish changes to the web server automatically</p>
